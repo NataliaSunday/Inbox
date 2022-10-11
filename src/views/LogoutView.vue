@@ -1,5 +1,5 @@
 <template>
   <div>
-    <h1>Home of inbox</h1>
+    <h1>Logout</h1>
   </div>
 </template>

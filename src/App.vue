@@ -1,7 +1,9 @@
 <template>
   <nav>
     <router-link to="/">Home</router-link> |
-    <router-link to="/about">About</router-link>
+    <router-link to="/inbox">Inbox</router-link> |
+    <router-link to="/archive">Archive</router-link>
+    <router-link to="/logout">Logout</router-link>
   </nav>
   <router-view />
 </template>
